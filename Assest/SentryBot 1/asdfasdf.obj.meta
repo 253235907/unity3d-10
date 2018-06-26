@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 213e41f29e192ae4b8f825ad2823af29
+timeCreated: 1526025760
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bodycaps01
+    100004: Brain
+    100006: BrainMeatcap01
+    100008: limbcaps01
+    100010: SBLeftFender
+    100012: SBLeftMissileLauncher
+    100014: SBLeftTire
+    100016: SBLeftUpperArm
+    100018: SBLeftVacuum
+    100020: SBRearFender
+    100022: SBRearTire
+    100024: SBRearVacuum
+    100026: SBRightFender
+    100028: SBRightGatlingLaser
+    100030: SBRightLaserTurret:0
+    100032: SBRightTire
+    100034: SBRightUpperArm
+    100036: SBRightVacuum
+    100038: SBTorso
+    100040: SBVacuumCoupling
+    400000: //RootNode
+    400002: bodycaps01
+    400004: Brain
+    400006: BrainMeatcap01
+    400008: limbcaps01
+    400010: SBLeftFender
+    400012: SBLeftMissileLauncher
+    400014: SBLeftTire
+    400016: SBLeftUpperArm
+    400018: SBLeftVacuum
+    400020: SBRearFender
+    400022: SBRearTire
+    400024: SBRearVacuum
+    400026: SBRightFender
+    400028: SBRightGatlingLaser
+    400030: SBRightLaserTurret:0
+    400032: SBRightTire
+    400034: SBRightUpperArm
+    400036: SBRightVacuum
+    400038: SBTorso
+    400040: SBVacuumCoupling
+    2100000: Material.00184f
+    2100002: Material.0017a4
+    2100004: Material.0017b6
+    2100006: Material.001aca
+    2100008: Material.000235
+    2100010: Material.0014f4
+    2100012: Material.000073
+    2100014: Material.000fe5
+    2100016: Material.00084c
+    2100018: Material.00067a
+    2100020: Material.0000e5
+    2100022: Material.000801
+    2100024: Material.000456
+    2100026: Material.00109c
+    2100028: Material.001420
+    2100030: Material.000001
+    2100032: Material.001369
+    2100034: Material.0007bb
+    2100036: Material.0008df
+    2100038: Material.000897
+    2300000: bodycaps01
+    2300002: Brain
+    2300004: BrainMeatcap01
+    2300006: limbcaps01
+    2300008: SBLeftFender
+    2300010: SBLeftMissileLauncher
+    2300012: SBLeftTire
+    2300014: SBLeftUpperArm
+    2300016: SBLeftVacuum
+    2300018: SBRearFender
+    2300020: SBRearTire
+    2300022: SBRearVacuum
+    2300024: SBRightFender
+    2300026: SBRightGatlingLaser
+    2300028: SBRightLaserTurret:0
+    2300030: SBRightTire
+    2300032: SBRightUpperArm
+    2300034: SBRightVacuum
+    2300036: SBTorso
+    2300038: SBVacuumCoupling
+    3300000: bodycaps01
+    3300002: Brain
+    3300004: BrainMeatcap01
+    3300006: limbcaps01
+    3300008: SBLeftFender
+    3300010: SBLeftMissileLauncher
+    3300012: SBLeftTire
+    3300014: SBLeftUpperArm
+    3300016: SBLeftVacuum
+    3300018: SBRearFender
+    3300020: SBRearTire
+    3300022: SBRearVacuum
+    3300024: SBRightFender
+    3300026: SBRightGatlingLaser
+    3300028: SBRightLaserTurret:0
+    3300030: SBRightTire
+    3300032: SBRightUpperArm
+    3300034: SBRightVacuum
+    3300036: SBTorso
+    3300038: SBVacuumCoupling
+    4300000: bodycaps01
+    4300002: Brain
+    4300004: BrainMeatcap01
+    4300006: limbcaps01
+    4300008: SBLeftFender
+    4300010: SBLeftMissileLauncher
+    4300012: SBLeftTire
+    4300014: SBLeftUpperArm
+    4300016: SBLeftVacuum
+    4300018: SBRearFender
+    4300020: SBRearTire
+    4300022: SBRearVacuum
+    4300024: SBRightFender
+    4300026: SBRightGatlingLaser
+    4300028: SBRightLaserTurret:0
+    4300030: SBRightTire
+    4300032: SBRightUpperArm
+    4300034: SBRightVacuum
+    4300036: SBTorso
+    4300038: SBVacuumCoupling
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
